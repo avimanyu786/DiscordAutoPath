@@ -1,5 +1,4 @@
-' DiscordAutoPath v1.0 -  Automatic retrieval of Discord path and launch silently in the background without 
-' minimize to system tray only
+' DiscordAutoPath v1.0 -  Automatic retrieval of Discord path and launch silently in the background and minimize it to system tray
 ' Home URL: https://github.com/avimanyu786/DiscordAutoPath/ 
 
 ' Copyright (C) 2022-23 Avimanyu Bandyopadhyay
