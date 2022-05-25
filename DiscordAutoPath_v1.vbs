@@ -1,4 +1,4 @@
-' DiscordAutoPath v1.0 -  Automatic retrieval of Discord path to simplify launching it silently in the background
+' DiscordAutoPath v1.0 -  Automatic retrieval of the complete path of Discord with username and version number to simplify launching it silently in the background
 ' Home URL: https://github.com/avimanyu786/DiscordAutoPath/
 ' Copyright (C) 2022-23 Avimanyu Bandyopadhyay
 
